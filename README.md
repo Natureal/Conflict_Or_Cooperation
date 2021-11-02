@@ -8,10 +8,9 @@ International relations analysis is crucial to many stakeholders including polic
 
 
 
+Citation:
 
 Peng Chen, Adam Jatowt, and Masatoshi Yoshikawa. "Conflict or cooperation? predicting future tendency of international relations." In Proceedings of the 35th Annual ACM Symposium on Applied Computing, pp. 923-930. 2020.
-
-Citation:
 
 @inproceedings{chen2020conflict,
   title={Conflict or cooperation? predicting future tendency of international relations},
