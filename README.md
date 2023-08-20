@@ -1,5 +1,3 @@
-PDF: https://dl.acm.org/doi/pdf/10.1145/3341105.3373929
-
 Access: https://dl.acm.org/doi/pdf/10.1145/3341105.3373929
 
 GDELT dataset: https://www.gdeltproject.org/ (It is recommended to access it through Google BigQuery)
