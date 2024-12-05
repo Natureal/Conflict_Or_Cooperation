@@ -1,7 +1,5 @@
 Access: https://dl.acm.org/doi/pdf/10.1145/3341105.3373929
 
-PDF: https://github.com/Natureal/Conflict_Or_Cooperation/blob/main/sac20_paper.pdf
-
 GDELT dataset: https://www.gdeltproject.org/ (It is recommended to access it through Google BigQuery)
 
 Abstract:
